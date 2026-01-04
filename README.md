@@ -2,7 +2,7 @@
 
 ## 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,redux,webpack,vite,graphql,apollo,zustand,socket)](https://github.com/MersadHabibi)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,redux,webpack,vite,graphql,java,zustand,socket)](https://github.com/MersadHabibi)
 
 <!-- [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
